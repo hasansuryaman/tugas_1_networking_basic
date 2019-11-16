@@ -1,18 +1,18 @@
 # Tugas 1 Networking Basic
 
-- **Q** : OSI memiliki kepanjangan dari ?
+- **Q** : ***OSI*** memiliki kepanjangan dari ?
 
   **A** : 
   
   
   <br>
-- **Q** : Bilangan 11011001 merupakan contoh bentuk dari bilangan ?
+- **Q** : Bilangan ***11011001*** merupakan contoh bentuk dari bilangan ?
 
   **A** : 
   
   
   <br>
-- **Q** : Bentuk desimal dari 11011001 adalah ?
+- **Q** : Bentuk desimal dari ***11011001*** adalah ?
 
   **A** :
   
@@ -24,6 +24,6 @@
   
   
   <br>
-- **Q** : Bilangan 3f dan 8a merupakan contoh bentuk dari bilangan ?
+- **Q** : Bilangan ***3f*** dan ***8a*** merupakan contoh bentuk dari bilangan ?
 
   **A** : 
