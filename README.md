@@ -2,8 +2,8 @@
 
 - **Q** : ***OSI*** memiliki kepanjangan dari ?
 
-  **A** : <div style="text-align:center"><img src="images/osi-model.png" alt="OSI Model" width="350"/></div>
-  
+  **A** : ***OSI*** sendiri merupakan singkatan dari **Open System Interconnection**, Model ini disebut juga dengan model "Model    tujuh lapis OSI" (OSI seven layer model).
+          <p align="center"><img src="images/osi-model.png" alt="OSI Model" width="350"/></div></p>
   
   <br>
 - **Q** : Bilangan ***11011001*** merupakan contoh bentuk dari bilangan ?
