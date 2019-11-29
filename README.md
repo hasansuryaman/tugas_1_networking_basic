@@ -6,7 +6,7 @@
 <br>
 
 ### 2. Bilangan ***11011001*** merupakan contoh bentuk dari bilangan 
-
+**Biner** atau sistem **bilangan basis dua** adalah sebuah sistem penulisan angka dengan menggunakan dua simbol yaitu **0** dan **1**. Sistem bilangan ini merupakan dasar dari semua sistem bilangan berbasis digital. Sistem ini juga dapat kita sebut dengan istilah **bit**, atau **Binary Digit**. Pengelompokan biner dalam komputer selalu berjumlah **8**, dengan istilah **1 Byte/bita**. Dalam istilah komputer, **1 Byte = 8 bit**. Kode-kode rancang bangun komputer, seperti ASCII, American Standard Code for Information Interchange menggunakan sistem peng-kode-an 1 Byte.
 
 <br>
 
@@ -21,7 +21,7 @@
 <br>
 
 ### 5. Bilangan ***3f*** dan ***8a*** merupakan contoh bentuk dari bilangan ?  
-Hexadecimal atau sistem bilangan basis 16 adalah sebuah sistem bilangan yang menggunakan 16 simbol dengan urutan angka sebagai berikut 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+**Hexadecimal** atau sistem **bilangan basis 16** adalah sebuah sistem bilangan yang menggunakan 16 simbol dengan urutan angka sebagai berikut **0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F**.
 
 Jenis            | Bilangan
 ---------------- | -------------
