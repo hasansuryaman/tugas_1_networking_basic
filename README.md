@@ -27,9 +27,16 @@
 
   **A** : Hexadecimal atau sistem bilangan basis 16 adalah sebuah sistem bilangan yang menggunakan 16 simbol dengan urutan angka sebagai berikut 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
 
-<center>
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
-</center>
+Jenis            | Bilangan
+---------------- | -------------
+Biner (2)        | 00111111
+Oktal (8)        | 77
+Decimal (10)     | 63
+Hexadecimal (16) | 3F
+
+Jenis            | Bilangan
+---------------- | -------------
+Biner (2)        | 10001010
+Oktal (8)        | 212
+Decimal (10)     | 138
+Hexadecimal (16) | 8A
