@@ -14,7 +14,7 @@
   <br>
 - **Q** : Bentuk desimal dari ***11011001*** adalah ?
 
-  **A** : **11011001** = [ 1x(2<sup>7</sup>) ] + [ 1x(2<sup>6</sup>) ] + [ 0x(2<sup>5</sup>) ] + [ 1x(2<sup>4</sup>) ] + [ 1x(2<sup>3</sup>)] + [ 0x(2<sup>2</sup>) ] + [ 0x(2<sup>1</sup>) ] + [ 1x(2<sup>0</sup>) ] = **217**
+  **A** : **11011001** = ( 1 x 2<sup>7</sup> ) + ( 1 x 2<sup>6</sup> ) + ( 0 x 2<sup>5</sup> ) + ( 1 x 2<sup>4</sup> ) + (  1 x 2<sup>3</sup> ) + ( 0 x 2<sup>2</sup> ) + ( 0 x 2<sup>1</sup> ) + ( 1 x 2<sup>0</sup> ) = **217**
   
   
   <br>
