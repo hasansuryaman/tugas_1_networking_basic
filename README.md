@@ -1,7 +1,7 @@
 # Tugas 1 Networking Basic
 
 ### 1. ***OSI*** memiliki kepanjangan dari?
-**OSI*** sendiri merupakan singkatan dari **Open System Interconnection**, Model ini disebut juga dengan model "Model    tujuh lapis OSI" (OSI seven layer model). <p align="center"><img src="images/osi-model.png" alt="OSI Model" width="350"/></div></p>
+**OSI** merupakan singkatan dari **Open System Interconnection**, Model ini disebut juga dengan model "Model    tujuh lapis OSI" (OSI seven layer model). <p align="center"><img src="images/osi-model.png" alt="OSI Model" width="350"/></div></p>
 
 <br>
 
