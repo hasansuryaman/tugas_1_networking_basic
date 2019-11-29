@@ -25,4 +25,11 @@
   <br>
 - **Q** : Bilangan ***3f*** dan ***8a*** merupakan contoh bentuk dari bilangan ?
 
-  **A** : 
+  **A** : Hexadecimal atau sistem bilangan basis 16 adalah sebuah sistem bilangan yang menggunakan 16 simbol dengan urutan angka sebagai berikut 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F.
+
+<center>
+| Jenis         | Bilangan      |
+------------ | -------------
+| Biner         | Content Cell  |
+| Content Cell  | Content Cell  |
+</center
