@@ -2,7 +2,7 @@
 
 - **Q** : ***OSI*** memiliki kepanjangan dari ?
 
-  **A** : 
+  **A** : <div style="text-align:center"><img src="images/osi-model.png" alt="OSI Model" width="350"/></div>
   
   
   <br>
